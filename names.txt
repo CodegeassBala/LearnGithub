@@ -1,0 +1,4 @@
+Katam Bala Prasanna Babu
+Vim editor is cool here..
+sry new edit the vim editor can only be opened throught the command propmpt but not throught the power shell
+
